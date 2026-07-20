@@ -1,0 +1,11 @@
+<svg width="2732" height="2732" viewBox="0 0 2732 2732" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="2732" height="2732" fill="#07110F"/>
+  <circle cx="1366" cy="1280" r="405" fill="#D9FF70" fill-opacity=".06"/>
+  <path d="M1169 939h394c72 0 130 58 130 130v335c0 98-76 178-172 189l73 80h-101l-58-71h-138l-58 71h-101l73-80c-96-11-172-91-172-189v-335c0-72 58-130 130-130Z" fill="#D9FF70"/>
+  <path d="M1143 1084c0-33 27-60 60-60h326c33 0 60 27 60 60v158h-446v-158Z" fill="#10241F"/>
+  <path d="M1201 1326h330" stroke="#10241F" stroke-width="53" stroke-linecap="round"/>
+  <circle cx="1224" cy="1440" r="46" fill="#10241F"/>
+  <circle cx="1508" cy="1440" r="46" fill="#10241F"/>
+  <text x="1366" y="1894" text-anchor="middle" fill="#F7F6F1" font-family="Arial, sans-serif" font-size="122" font-weight="700" letter-spacing="-5">Windowseat</text>
+  <text x="1366" y="1992" text-anchor="middle" fill="#98E0C1" font-family="Arial, sans-serif" font-size="42" font-weight="500" letter-spacing="10">EVERYTHING ELSE CAN WAIT</text>
+</svg>

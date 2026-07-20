@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Windowseat</string>
+    <string name="title_activity_main">Windowseat</string>
+    <string name="package_name">works.gatty.windowseat</string>
+    <string name="custom_url_scheme">works.gatty.windowseat</string>
+</resources>
